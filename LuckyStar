@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Animated Images</h2>
+
+<p>HTML allows moving images:</p>
+
+<img src="https://cdn.discordapp.com/attachments/1287810604660166729/1322380753199173632/togif.gif?ex=6773f64c&is=6772a4cc&hm=3aaa34508ae352478325eac67aa6e33542400e78a62a2353984883e46080a032&" alt="koneko" style="width:48px;height:48px;">
+
+</body>
+</html>
+
